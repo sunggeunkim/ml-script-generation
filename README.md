@@ -1,4 +1,4 @@
-# ml-script-generation
+# Machine Learning TV script Generation
 ## Purpose
 The purpose of this project is to create a machine learning algorithm to generate texts based on a existing scripts.
 
